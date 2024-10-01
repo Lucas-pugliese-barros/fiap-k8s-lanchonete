@@ -35,7 +35,7 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 ## 🛠️ Abrir e rodar o projeto
 
 
-Após abrir o projeto abra um terminal, navegue até o diretório `infra` e execute o comando `terraform init` dentro dele, agora temos o Terraform iniciado e podemos começar a utilizá-lo. Para criar a infraestrutura, execute o `terraform apply` na pastas de infra (`infra`).
+Após clonar o projeto abra um terminal, navegue até o diretório `infra` e execute o comando `terraform init` dentro dele, agora temos o Terraform iniciado e podemos começar a utilizá-lo. Para criar a infraestrutura, execute o `terraform apply` na pastas de infra (`infra`).
 Caso deseje remover toda a infraestrutura provisionada, execute o comando `terraform destroy` e aguarde a infra ser removida.
 
 
