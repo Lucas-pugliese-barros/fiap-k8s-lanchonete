@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "mybucket"
+    bucket = "bucketk8slanchonete"
     key    = "path/to/my/key"
     region = var.region
   }
